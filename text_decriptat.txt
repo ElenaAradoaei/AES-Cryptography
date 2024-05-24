@@ -1,0 +1,1 @@
+Algoritmul AES (Advanced Encryption Standard) este un standard de criptare simetrica adoptat de guvernul SUA in 2001. AES a fost conceput pentru a inlocui DES (Data Encryption Standard), oferind un nivel superior de securitate si eficienta.
